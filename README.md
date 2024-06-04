@@ -1,10 +1,14 @@
-Projeto TO DO LIST.
+# Projeto: To Do List.
+##### O principal objetivo de criar uma to-do list é ter mais organização, seja na vida pessoal, profissional ou nos estudos. Uma rotina mais ordenada facilita o processo de alcançar suas metas e ter um maior êxito naquilo que se busca.
 
-O principal objetivo de criar uma to-do list é ter mais organização, seja na vida pessoal, profissional ou nos estudos. 
-Uma rotina mais ordenada facilita o processo de alcançar suas metas e ter um maior êxito naquilo que se busca.
-<br><br />
+## Tecnologias:
+- HTML
+- CSS
+- JavaScript
 
-Foi realizado um layout centralizado dos elementos
+###### link do projeto na Vercel: https://to-do-list-liard-chi.vercel.app/
+
+### Amostra 👇
 
 ![image](https://github.com/obrunomarciano/to-do-list/assets/122938679/a79eb521-d933-4584-9484-5add4c3ce6b0)
 <br><br />
@@ -20,5 +24,3 @@ Exemplo abaixo:
 ![image](https://github.com/obrunomarciano/to-do-list/assets/122938679/7e70b7b1-69f2-457f-ae72-d43696e6d15d)
 <br><br />
 
-Obrigado!
-By: Bruno Marciano
